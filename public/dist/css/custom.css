@@ -1,0 +1,32 @@
+/*------------add filed css------------*/
+
+.controls {
+    width: 294px;
+    margin: 15px auto;
+}
+
+#remove_fields {
+    float: right;
+}
+.controls a i.fa-minus {
+    margin-right: 5px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: #232c3d;
+}
+button {
+    margin: 0 auto;
+    display: block;
+    border: 0;
+    background: #3f51b5;
+    padding: 10px;
+    border-radius: 2px;
+    color: white;
+}
